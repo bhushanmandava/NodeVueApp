@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "661f3402eed6cdb1b155de45"
+  },
+  {
+    "_id": "661f34e6509fef3cb3a27cd5",
+    "serialNumber": "A12345",
+    "name": "Omega Seamaster",
+    "manufacturedYear": 2020,
+    "movement": "Automatic",
+    "company": "Omega",
+    "cost": 5500
+  },
+  {
+    "_id": "661f351deed6cdb1b155de47",
+    "serialNumber": "B67890",
+    "name": "Rolex Submariner",
+    "manufacturedYear": 2018,
+    "movement": "Automatic",
+    "company": "Rolex",
+    "cost": 9000
+  },
+  {
+    "_id": "661f3594eed6cdb1b155de48",
+    "serialNumber": "C24680",
+    "name": "Cartier Tank",
+    "manufacturedYear": 2015,
+    "movement": "Quartz",
+    "company": "Cartier",
+    "cost": 3800
+  },
+  {
+    "_id": "661f3601eed6cdb1b155de49",
+    "serialNumber": "D13579",
+    "name": "Breitling Navitimer",
+    "manufacturedYear": 2022,
+    "movement": "Automatic",
+    "company": "Breitling",
+    "cost": 7200
+  },
+  {
+    "_id": "661f366eeed6cdb1b155de4a",
+    "serialNumber": "E97531",
+    "name": "Longines Master Collection",
+    "manufacturedYear": 2019,
+    "movement": "Automatic",
+    "company": "Longines",
+    "cost": 2500
+  }
+]
