@@ -1,0 +1,44 @@
+{
+  "watches": [
+  {
+  "serialNumber": "A12345",
+  "name": "Omega Seamaster",
+  "manufacturedYear": 2020,
+  "movement": "Automatic",
+  "company": "Omega",
+  "cost": 5500
+  },
+  {
+  "serialNumber": "B67890",
+  "name": "Rolex Submariner",
+  "manufacturedYear": 2018,
+  "movement": "Automatic",
+  "company": "Rolex",
+  "cost": 9000
+  },
+  {
+  "serialNumber": "C24680",
+  "name": "Cartier Tank",
+  "manufacturedYear": 2015,
+  "movement": "Quartz",
+  "company": "Cartier",
+  "cost": 3800
+  },
+  {
+  "serialNumber": "D13579",
+  "name": "Breitling Navitimer",
+  "manufacturedYear": 2022,
+  "movement": "Automatic",
+  "company": "Breitling",
+  "cost": 7200
+  },
+  {
+  "serialNumber": "E97531",
+  "name": "Longines Master Collection",
+  "manufacturedYear": 2019,
+  "movement": "Automatic",
+  "company": "Longines",
+  "cost": 2500
+  }
+  ]
+  }
